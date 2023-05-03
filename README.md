@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raissov
 - 👀 I’m interested in Go, Backend Development
-- 🌱 I’m currently learning Algorithms and Data Structure
+- 🌱 I’m currently learning Algorithms and Data Structures
 - 📫 How to reach me tg - @golang10
 
 <!---
